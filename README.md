@@ -1,16 +1,27 @@
-### Hi there 👋
+# Jabes Reyes
 
-<!--
-**Jabesreyes/Jabesreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *Estudiante de Ingeniería en Computación*
 
-Here are some ideas to get you started:
+Universidad Don Bosco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+San Salvador, El Salvador
+
+## Educación
+
+- 2023.01-*Present* Técnicatura - Ingeniería en Computación, Universidad Don Bosco.
+- 2024-*Present* Oracle Next Education, Alura LATAM.
+
+## Skills
+
+- Idiomas: Español (Nativo); Ingles (Intermedio)
+- Lenguajes de Programación: C++; Java; JavaScript; PHP; C#
+- Frameworks de Programación: Bootstrap; AngularJS
+
+## Experiencía Academica
+
+Junior Project Manager - Fundación Emprende Hoy :
+- Análisis de requerimientos técnicos de mvp de programación.
+- Coordinación de equipos de diferentes mvps side project.
+- Refinamiento de calidad de diferentes proyectos digitales web2.
+- Planificación, documentación de procesos de programación.
+- Planificación, análisis, debate de buenas prácticas de programación.
