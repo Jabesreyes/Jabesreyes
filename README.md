@@ -8,8 +8,8 @@ San Salvador, El Salvador
 
 ## Educación
 
-- 2023.01-*Present* Técnicatura - Ingeniería en Computación, Universidad Don Bosco.
-- 2024-*Present* Oracle Next Education, Alura LATAM.
+- 2023.01-*Presente* Técnicatura - Ingeniería en Computación, Universidad Don Bosco.
+- 2024-*Presente* Oracle Next Education, Alura LATAM.
 
 ## Skills
 
