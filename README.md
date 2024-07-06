@@ -1,6 +1,6 @@
 # Jabes Reyes
 
-### *Estudiante de Ingeniería en Computación*
+### *Estudiante de Ingeniería en Computación y Oracle Next Education*
 
 Universidad Don Bosco
 
